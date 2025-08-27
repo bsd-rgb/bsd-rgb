@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi, I'm Brandi
+
+I’m a junior software developer transitioning from IT support into full-stack development. My current toolkit includes Java, HTML, CSS, JavaScript, and PowerShell. I’m expanding my skills by learning React and strengthening my Java fundamentals as I prepare to dive into Spring.
+
 
 <!--
 **bsd-rgb/bsd-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
