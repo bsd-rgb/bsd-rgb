@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Brandi
 
-I’m a junior software developer transitioning from IT support into full-stack development. My current toolkit includes Java, HTML, CSS, JavaScript, and PowerShell. I’m expanding my skills by learning React and strengthening my Java fundamentals as I prepare to dive into Spring.
+I'm a junior software developer transitioning from IT support into full-stack development. My current toolkit includes Java, HTML, CSS, JavaScript, and PowerShell. I'm currently focused on strengthening my JavaScript skills and learning React, with Java development also part of of ongoing learning, aimed toward Spring.
 
 
 <!--
